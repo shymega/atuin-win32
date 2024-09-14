@@ -1,0 +1,6 @@
+[submodule "native/atuive"]
+	path = native/atuive
+	url = https://github.com/atuinsh/atuin
+[submodule "native/atuin"]
+	path = native/atuin
+	url = https://github.com/atuinsh/atuin

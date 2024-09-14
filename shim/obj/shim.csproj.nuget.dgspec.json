@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dzrodriguez/projects/git.shymega.org.uk/shymega/atuin-win32/shim/shim.csproj": {}
+  },
+  "projects": {
+    "/home/dzrodriguez/projects/git.shymega.org.uk/shymega/atuin-win32/shim/shim.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dzrodriguez/projects/git.shymega.org.uk/shymega/atuin-win32/shim/shim.csproj",
+        "projectName": "shim",
+        "projectPath": "/home/dzrodriguez/projects/git.shymega.org.uk/shymega/atuin-win32/shim/shim.csproj",
+        "packagesPath": "/home/dzrodriguez/.nuget/packages/",
+        "outputPath": "/home/dzrodriguez/projects/git.shymega.org.uk/shymega/atuin-win32/shim/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dzrodriguez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/m9dbas0s0a0lfgha03hb85cnb3r82bf2-dotnet-sdk-8.0.303/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

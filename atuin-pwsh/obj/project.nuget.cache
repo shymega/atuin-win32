@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0D4mBIeLI0=",
+  "success": true,
+  "projectFilePath": "/home/dzrodriguez/projects/git.shymega.org.uk/shymega/atuin-win32/atuin-pwsh/atuin-pwsh.csproj",
+  "expectedPackageFiles": [
+    "/home/dzrodriguez/.nuget/packages/powershellstandard.library/5.1.1/powershellstandard.library.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
